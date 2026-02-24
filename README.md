@@ -41,9 +41,7 @@ vct-emea-kickoff-simulator/
 │   └── pages/
 │       └── 01_Worst_to_Best_Ranker.py
 ├── src/
-│   └── vct_emea/
-│       └── __init__.py
-├── .github/workflows/ci.yml
+│   └── __init__.py
 ├── .gitignore
 ├── .pre-commit-config.yaml
 └── pyproject.toml
